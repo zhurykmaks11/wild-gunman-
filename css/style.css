@@ -616,7 +616,7 @@ body {
   width: 800px;
   height: 480px;
   overflow: hidden;
-  background: url(/img/bg.png) no-repeat;
+  background: url(../img/bg.png) no-repeat;
   background-size: contain;
 }
 .game-screen--death {
